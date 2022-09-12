@@ -1,1 +1,1 @@
-echo "This is a drill, nothing serious"
+echo "This is a drill, nothing serious. Take 1"
